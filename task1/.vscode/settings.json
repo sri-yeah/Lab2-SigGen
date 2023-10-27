@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "locale": "cpp",
+        "new": "cpp"
+    }
+}
